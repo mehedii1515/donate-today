@@ -1,6 +1,7 @@
 body {
 
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .lets-help {
@@ -35,21 +36,73 @@ h1 {
     text-align: center;
 }
 
+.donate-plan {
+    text-align: center;
+}
+
 .donate-plan-options {
     display: flex;
     width: 90%;
-    im
+    margin-left: 50px;
 }
 
 .food-for-family {
     background-color: #4F9DA6;
     margin: 10px;
+    padding: 50px;
 }
 
 .shelter-for-family {
     margin: 10px;
+    background-color: #FF5959;
+    padding: 50px;
 }
 
 .education-for-child {
     margin: 10px;
+    background-color: #FFF4D6;
+    padding: 50px;
+}
+
+.life-depend {
+    display: flex;
+    margin: 80px;
+    padding: px;
+}
+
+.life-img {
+    width: px;
+    height: ;
+    margin: px;
+    padding: px;
+
+
+}
+
+.life-text {
+    margin: px;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 100%;
+    border-radius: 10px;
+    height:100%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+#footer-h1{
+    color: #FF5959;
+}
+#footer-p{
+    color: white;
+}
+.updates{
+    text-align: center;
 }
