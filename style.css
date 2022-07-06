@@ -105,8 +105,6 @@ input {
     text-align: center;
 }
 
-
-
 .donate-plan {
     text-align: center;
 }
@@ -139,16 +137,10 @@ input {
     display: flex;
     margin: 80px;
     padding: px;
-
-
 }
-
-
-
 
 .half-width {
     width: 50%;
-
 }
 
 .half-width img {
