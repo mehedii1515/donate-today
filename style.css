@@ -173,11 +173,12 @@ footer {
 .updates {
     text-align: center;
 }
-.email{
+
+.email {
     background-color: #FFF4D6;
-    display:flexbox;
+    display: flexbox;
     width: 70%;
     height: 130px;
-    margin-left:180px ;
+    margin-left: 180px;
     padding-top: 100px;
 }
